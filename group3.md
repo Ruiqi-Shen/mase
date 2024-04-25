@@ -1,4 +1,4 @@
-# Pruning and Training for MASE - Group 3 
+# Pruning and Training for MASE
 
 # Functionality 
 ## Basic Elements:
